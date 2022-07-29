@@ -1,0 +1,944 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.25)  25 JUL 2022 22:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**gita-iast.tex
+(./gita-iast.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-15>
+(d:/programs/texlive/2022/texmf-dist/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2022/07/04 v3.37 KOMA-Script document class (book)
+(d:/programs/texlive/2022/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2022/07/04 v3.37 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2022/07/04 v3.37 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2022/07/04 v3.37 KOMA-Script package (file load hooks)
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2022/07/04 v3.37 KOMA-Script package (using LaTeX hooks)
+
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2022/07/04 v3.37 KOMA-Script package (logo)
+)))
+(d:/programs/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(d:/programs/texlive/2022/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2022/07/04 v3.37 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box51
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 137.
+Class scrbook Info: File `scrsize11pt.clo' used instead of
+(scrbook)           file `scrsize11.clo' to setup font sizes on input line 2569
+.
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2022/07/04 v3.37 KOMA-Script font size class option (11pt
+)
+)
+(d:/programs/texlive/2022/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2022/07/04 v3.37 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count181
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 47.2316pt
+(typearea)              \oddsidemargin  = -12.5192pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1766.
+)
+\c@part=\count182
+\c@chapter=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\scr@dte@chapter@maxnumwidth=\skip53
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\chapter on input line 5801.
+\scr@dte@section@maxnumwidth=\skip54
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\section on input line 5812.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\section on input line 5812.
+\scr@dte@part@maxnumwidth=\skip55
+Class scrbook Info: using compatibility default `afterindent=true'
+(scrbook)           for `\part on input line 5821.
+\scr@dte@subsection@maxnumwidth=\skip56
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsection on input line 5831.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsection on input line 5831.
+\scr@dte@subsubsection@maxnumwidth=\skip57
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsubsection on input line 5841.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsubsection on input line 5841.
+\scr@dte@paragraph@maxnumwidth=\skip58
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\paragraph on input line 5852.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\paragraph on input line 5852.
+\scr@dte@subparagraph@maxnumwidth=\skip59
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subparagraph on input line 5862.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subparagraph on input line 5862.
+\abovecaptionskip=\skip60
+\belowcaptionskip=\skip61
+\c@pti@nb@sid@b@x=\box52
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 7033.
+
+\scr@dte@figure@maxnumwidth=\skip62
+\c@figure=\count189
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 7050.
+
+\scr@dte@table@maxnumwidth=\skip63
+\c@table=\count190
+Class scrbook Info: Redefining `\numberline' on input line 7221.
+\bibindent=\dimen138
+)
+Class scrbook Info: File `scrsize12pt.clo' used to setup font sizes on input li
+ne 4.
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
+File: scrsize12pt.clo 2022/07/04 v3.37 KOMA-Script font size class option (12pt
+)
+)
+Package typearea Info: With paper sizes other than (almost) `A4' predefined
+(typearea)             DIV values do not exist. Using DIV calculation for good
+(typearea)             line width (unless using `version=3.24` or prior).
+
+DIV calculation for typearea with good linewidth.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 8
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 614.295pt
+(typearea)              \textwidth      = 383.9344pt
+(typearea)              DIV departure   = 1%
+(typearea)              \evensidemargin = 81.30374pt
+(typearea)              \oddsidemargin  = 4.51688pt
+(typearea)             \paperheight     = 794.96999pt
+(typearea)              \textheight     = 505.0pt
+(typearea)              \topmargin      = -12.77374pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 6.
+(d:/programs/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(d:/programs/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(d:/programs/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count191
+\Gm@cntv=\count192
+\c@Gm@tempcnt=\count193
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+)
+(d:/programs/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count194
+\mult@box=\box53
+\multicol@leftmargin=\dimen147
+\c@unbalance=\count195
+\c@collectmore=\count196
+\doublecol@number=\count197
+\multicoltolerance=\count198
+\multicolpretolerance=\count199
+\full@width=\dimen148
+\page@free=\dimen149
+\premulticols=\dimen150
+\postmulticols=\dimen151
+\multicolsep=\skip64
+\multicolbaselineskip=\skip65
+\partial@page=\box54
+\last@line=\box55
+\maxbalancingoverflow=\dimen152
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@minrows=\count266
+\c@columnbadness=\count267
+\c@finalcolumnbadness=\count268
+\last@try=\dimen153
+\multicolovershoot=\dimen154
+\multicolundershoot=\dimen155
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count269
+)
+(d:/programs/texlive/2022/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count270
+\float@exts=\toks18
+\float@box=\box98
+\@float@everytoks=\toks19
+\@floatcapt=\box99
+)
+(d:/programs/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-06-20 v7.00s Hypertext links for LaTeX
+
+(d:/programs/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(d:/programs/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(d:/programs/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(d:/programs/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(d:/programs/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (d:/programs/texlive/2022/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(d:/programs/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(d:/programs/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(d:/programs/texlive/2022/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(d:/programs/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(d:/programs/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.
+sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (d:/programs/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count271
+)
+\@linkdim=\dimen156
+\Hy@linkcounter=\count272
+\Hy@pagecounter=\count273
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-06-20 v7.00s Hyperref: PDFDocEncoding definition (HO)
+)
+(d:/programs/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(d:/programs/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count274
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4408.
+\c@Hy@tempcnt=\count275
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4746.
+\XeTeXLinkMargin=\dimen157
+
+(d:/programs/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(d:/programs/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count276
+\Field@Width=\dimen158
+\Fld@charsize=\dimen159
+Package hyperref Info: Hyper figures OFF on input line 6024.
+Package hyperref Info: Link nesting OFF on input line 6029.
+Package hyperref Info: Hyper index ON on input line 6032.
+Package hyperref Info: backreferencing OFF on input line 6039.
+Package hyperref Info: Link coloring OFF on input line 6044.
+Package hyperref Info: Link coloring with OCG OFF on input line 6049.
+Package hyperref Info: PDF/A mode OFF on input line 6054.
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count277
+\c@Item=\count278
+\c@Hfootnote=\count279
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2022-06-20 v7.00s Hyperref driver for XeTeX
+
+(d:/programs/texlive/2022/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box100
+\c@Hy@AnnotLevel=\count280
+\HyField@AnnotCount=\count281
+\Fld@listcount=\count282
+\c@bookmark@seq@number=\count283
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.st
+y
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (d:/programs/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(d:/programs/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.st
+y
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip66
+) (d:/programs/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty
+(d:/programs/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(d:/programs/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-07-15 L3 programming layer (loader) 
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-07-01 L3 backend support: XeTeX
+\g__graphics_track_int=\count284
+\l__pdf_internal_box=\box101
+\g__pdf_backend_object_int=\count285
+\g__pdf_backend_annotation_int=\count286
+\g__pdf_backend_link_int=\count287
+))
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+(d:/programs/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count288
+\l__fontspec_language_int=\count289
+\l__fontspec_strnum_int=\count290
+\l__fontspec_tmp_int=\count291
+\l__fontspec_tmpa_int=\count292
+\l__fontspec_tmpb_int=\count293
+\l__fontspec_tmpc_int=\count294
+\l__fontspec_em_int=\count295
+\l__fontspec_emdef_int=\count296
+\l__fontspec_strong_int=\count297
+\l__fontspec_strongdef_int=\count298
+\l__fontspec_tmpa_dim=\dimen160
+\l__fontspec_tmpb_dim=\dimen161
+\l__fontspec_tmpc_dim=\dimen162
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(d:/programs/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+Package fontspec Info: Font family 'Junicode(0)' created for font 'Junicode'
+(fontspec)             with options [Ligatures=TeX,Path = assets/,UprightFont
+(fontspec)             = Junicode.ttf,BoldFont = Junicode-Bold.ttf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[assets/Junicode.ttf]/OT:script=latn;language=dflt;m
+apping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[assets/Junicode.ttf]/OT:script=latn;language=dflt;+
+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[assets/Junicode-Bold.ttf]/OT:script=latn;language=d
+flt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[assets/Junicode-Bold.ttf]/OT:script=latn;language=d
+flt;+smcp;mapping=tex-text;"
+
+
+(./gita-iast.aux)
+\openout1 = `gita-iast.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
+0.
+ (d:/programs/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+Package scrbase Info: activating english \partname on input line 30.
+Package scrbase Info: activating english \chaptername on input line 30.
+Package scrbase Info: activating english \appendixname on input line 30.
+Package scrbase Info: activating english \figurename on input line 30.
+Package scrbase Info: activating english \tablename on input line 30.
+Package scrbase Info: activating english \contentsname on input line 30.
+Package scrbase Info: activating english \listfigurename on input line 30.
+Package scrbase Info: activating english \listtablename on input line 30.
+Package scrbase Info: activating english \bibname on input line 30.
+Package scrbase Info: activating english \indexname on input line 30.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-39.875pt
+* \headheight=18.125pt
+* \headsep=21.75pt
+* \topskip=12.0pt
+* \footskip=50.75pt
+* \marginparwidth=115.1803pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 30.
+(./gita-iast.out) (./gita-iast.out)
+\@outlinefile=\write3
+\openout3 = `gita-iast.out'.
+
+Class scrbook Info: loading recommended package `bookmark'.
+(scrbook)           Using `bookmark' together with `hyperref' is recommended,
+(scrbook)           because of handling of possible bookmark level gaps.
+(scrbook)           You can avoid loading `bookmark' with KOMA-Script option
+(scrbook)           `bookmarkpackage=false' before \begin{document} and
+(scrbook)           you can avoid this message adding:
+(scrbook)             \usepackage{bookmark}
+(scrbook)           before \begin{document} on input line 30.
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(d:/programs/texlive/2022/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
+File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
+\BKM@id=\count299
+))
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 30.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 30.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 30.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 30.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 30.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 30.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 30.
+LaTeX Font Info:    Redeclaring math accent \check on input line 30.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 30.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 30.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 30.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/Junicode(0)/m/n on input line 30.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/Junicode(0)/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/Junicode(0)/m/n --> TU/Junicode(0)/m/n on input line
+ 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/Junicode(0)/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/Junicode(0)/b/n on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/Junicode(0)/m/n --> TU/Junicode(0)/b/n on input line
+ 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/Junicode(0)/b/it on input line 30.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 32.
+
+[1
+
+
+
+] [2
+
+
+] (./gita-iast.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1.
+
+Missing character: There is no ṅ (U+1E45) in font [assets/Junicode-Bold.ttf]/OT
+:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ṃ (U+1E43) in font [assets/Junicode-Bold.ttf]/OT
+:script=latn;language=dflt;mapping=tex-text;!
+)
+\tf@toc=\write4
+\openout4 = `gita-iast.toc'.
+
+ [1
+
+
+] [2
+
+
+]
+chapter without number
+
+Class scrbook Warning: \float@addtolists detected!
+(scrbook)              Implementation of \float@addtolist became
+(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrbook)              has been replaced by several more flexible
+(scrbook)              features of package `tocbasic`.
+(scrbook)              Since Version 3.12 support for deprecated
+(scrbook)              \float@addtolist interface has been
+(scrbook)              restricted to only some of the KOMA-Script
+(scrbook)              features and been removed from others.
+(scrbook)              Loading of package `scrhack' may help to
+(scrbook)              avoid this warning, if you are using a
+(scrbook)              a package that still implements the
+(scrbook)              deprecated \float@addtolist interface.
+
+(./sections/iast/opening-slokas.tex) [3] [4
+
+
+]
+chapter 2.
+Missing character: There is no ṅ (U+1E45) in font [assets/Junicode-Bold.ttf]/OT
+:script=latn;language=dflt;mapping=tex-text;!
+(./sections/iast/chapter-2.tex
+Overfull \hbox (10.08151pt too wide) in paragraph at lines 67--73
+[][] 
+ []
+
+[1
+
+
+]
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 274.
+
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/it' undefined
+(Font)              using `TU/Junicode(0)/m/n' instead on input line 274.
+
+[2]
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 418.
+
+[3]
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 555.
+
+[4])
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 49.
+
+[5] [6
+
+
+]
+chapter 3.
+(./sections/iast/chapter-3.tex [7]
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 280.
+
+[8])
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 52.
+
+[9] [10
+
+
+]
+chapter 4.
+(./sections/iast/chapter-4.tex [11]
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 281.
+
+[12])
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 59.
+
+[13] [14
+
+
+]
+chapter 5.
+(./sections/iast/chapter-5.tex [15])
+Overfull \vbox (39.56944pt too high) has occurred while \output is active []
+
+
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 62.
+
+[16]
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 64.
+
+[17] [18
+
+
+]
+chapter 6.
+Missing character: There is no ṃ (U+1E43) in font [assets/Junicode-Bold.ttf]/OT
+:script=latn;language=dflt;mapping=tex-text;!
+(./sections/iast/chapter-6.tex [19]
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 279.
+
+[20]
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 418.
+
+[21])
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 69.
+
+[22]
+chapter 7.
+(./sections/iast/chapter-7.tex [23
+
+
+]
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 279.
+
+[24])
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 74.
+
+[25] [26
+
+
+]
+chapter 8.
+(./sections/iast/chapter-8.tex [27])
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 77.
+
+[28]
+chapter 9.
+(./sections/iast/chapter-9.tex [29
+
+
+]
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 279.
+
+[30])
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 87.
+
+[31] [32
+
+
+]
+chapter 11.
+(./sections/iast/chapter-11.tex [33]
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 273.
+
+[34]
+Overfull \hbox (18.45456pt too wide) in paragraph at lines 303--309
+[][] 
+ []
+
+
+Overfull \hbox (2.1655pt too wide) in paragraph at lines 395--401
+[][] 
+ []
+
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 420.
+
+[35]
+Overfull \hbox (8.15964pt too wide) in paragraph at lines 459--466
+[][] 
+ []
+
+)
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 92.
+
+[36]
+chapter 12.
+(./sections/iast/chapter-12.tex [37
+
+
+])
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 97.
+
+[38]
+chapter 13.
+(./sections/iast/chapter-13.tex [39
+
+
+]
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 280.
+
+[40])
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 105.
+
+[41] [42
+
+
+]
+chapter 15.
+(./sections/iast/chapter-15.tex
+Overfull \hbox (9.08542pt too wide) in paragraph at lines 47--53
+[][] 
+ []
+
+[43])
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 110.
+
+[44]
+chapter 16.
+(./sections/iast/chapter-16.tex [45
+
+
+])
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 115.
+
+[46]
+chapter 17.
+(./sections/iast/chapter-17.tex [47
+
+
+])
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 118.
+
+[48]
+chapter 18.
+(./sections/iast/chapter-18.tex [49
+
+
+]
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 280.
+
+[50])
+
+LaTeX Font Warning: Font shape `TU/Junicode(0)/m/sl' undefined
+(Font)              using `TU/Junicode(0)/m/it' instead on input line 123.
+
+[51] [52
+
+
+]
+chapter without number
+(./sections/iast/closing-slokas.tex) [53
+
+
+] (./gita-iast.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `gita-iast.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 13916 strings out of 475865
+ 299179 string characters out of 5801615
+ 830386 words of memory out of 5000000
+ 34792 multiletter control sequences out of 15000+600000
+ 473397 words of font info for 57 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 108i,8n,106p,10630b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on gita-iast.pdf (59 pages).

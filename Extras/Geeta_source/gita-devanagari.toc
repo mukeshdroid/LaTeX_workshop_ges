@@ -1,0 +1,18 @@
+\contentsline {chapter}{\nonumberline Dhyāna Ślokas}{ii}{chapter*.2}%
+\contentsline {chapter}{\numberline {2}Sāṅkhya Yoga}{1}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Karma Yoga}{6}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Jñāna Yoga}{9}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Karma-Sannyāsa Yoga}{12}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Ātma-Saṃyama Yoga}{15}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Jñāna-Vijñāna Yoga}{19}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Akṣara-Parabrahma Yoga}{22}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Rājavidyā-Rājaguhya Yoga}{24}{chapter.9}%
+\contentsline {chapter}{\numberline {11}Viśvarūpa Sandarśana Yoga}{27}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Bhakti Yoga}{31}{chapter.12}%
+\contentsline {chapter}{\numberline {13}Kṣetrakṣetrajñavibhāga Yoga}{33}{chapter.13}%
+\contentsline {chapter}{\numberline {15}Puruṣottama-Prāpti Yoga}{36}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Daivāsura Sampad Vibhāga Yoga}{38}{chapter.16}%
+\contentsline {chapter}{\numberline {17}Śraddhātraya-Vibhāga Yoga}{40}{chapter.17}%
+\contentsline {chapter}{\numberline {18}Mokṣa-Sannyāsa Yoga}{42}{chapter.18}%
+\contentsline {chapter}{\nonumberline Closing Ślokas}{45}{chapter*.3}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

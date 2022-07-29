@@ -1,0 +1,12 @@
+\babel@toc {english}{}\relax 
+\babel@toc {arabic}{}\relax 
+\babel@toc {english}{}\relax 
+\select@language {english}
+\babel@toc {arabic}{}\relax 
+\select@language {english}
+\contentsline {chapter}{\numberline {1}\@arabic@R {علوم الحاسوب}}{\if@rlmain \I {2}\else \textLR {2}\fi }{}%
+\select@language {english}
+\contentsline {section}{\numberline {\if@rl \I {1.1}\else \textLR {1.1}\fi }\@arabic@R {تاريخ}}{\if@rlmain \I {2}\else \textLR {2}\fi }{}%
+\babel@toc {english}{}\relax 
+\select@language {english}
+\contentsline {section}{\numberline {\if@rl \I {2.1}\else \textLR {1.2}\fi }\bgroup \beginL \latintext English section\endL \egroup }{\if@rlmain \I {2}\else \textLR {2}\fi }{}%
